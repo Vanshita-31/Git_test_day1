@@ -1,3 +1,5 @@
 print("hello")
 print(1+2)
 print("vanshita")
+print("31aug2002")
+print("hie")
